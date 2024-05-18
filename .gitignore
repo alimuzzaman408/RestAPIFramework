@@ -1,5 +1,7 @@
 # Compiled source #
 ###################
+target/
+*.txt
 *.com
 *.class
 *.dll
